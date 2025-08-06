@@ -45,5 +45,5 @@ expense|1000|Groceries|Weekly grocery shopping
    git clone https://github.com/your-username/budget-tracker.git
    cd budget-tracker
 
-## Run the Script
-python budget_tracker.py
+## Run in Jupyter Notebook
+Jupyter Notebook "Budget Tracker.ipynb"
