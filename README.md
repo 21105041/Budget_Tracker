@@ -28,10 +28,11 @@ A simple Python-based command-line application to manage income and expenses. Bu
 
 ## 🧾 File Format
 
-Transactions are stored in `transactions.txt` using a pipe-separated format:
+Transactions are stored in `transactions.txt` using a pipe-separated format :
+
 type|amount|category|note
 
-Example : income|5000|Salary|July salary
+Example : income|5000|Salary|July salary ; 
 expense|1000|Groceries|Weekly grocery shopping
 
 
